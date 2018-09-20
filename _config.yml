@@ -96,7 +96,7 @@ sidebars:
 - appointments_sidebar
 - tasks_sidebar
 
-description: "This implementation guide supports the publishing of National Population Failsafe Managementevent messages through the use of nationally defined messaging components."
+description: "This implementation guide supports the publishing of National Population Failsafe Management event messages through the use of nationally defined messaging components."
 # the description is used in the feed.xml file
 
 sitemap: true
