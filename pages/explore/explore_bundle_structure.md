@@ -4,12 +4,12 @@ keywords:  messaging, bundles
 tags: [fhir,messaging]
 sidebar: foundations_sidebar
 permalink: explore_bundle_structure.html
-summary: "The structure of the bundle used for EMS event messages"
+summary: "The structure of the bundle used for National Population Failsafe Management messages"
 ---
 
 ## The EMS Event Message Bundle Structure ##
 
-To enable a standardised structure to carry information within the scope of the Events Management Service, the EMS Message Bundle and the EMS Message Header combine to make up the initial event message bundle structure: 
+To enable a standardised structure to carry information within the scope of the [Events Management Service](https://developer.nhs.uk/library/interoperability/events-management-service), the EMS Message Bundle and the EMS Message Header combine to make up the initial event message bundle structure: 
 
 <img src="images/explore/emsbundlestructure.png" style="width:50%;max-width: 50%;">
 

@@ -4,7 +4,7 @@ keywords:  messaging, bundles
 tags: [fhir,messaging]
 sidebar: foundations_sidebar
 permalink: explore_event_header_design.html
-summary: "The standard event header information applicable to Events Management Service EMS event messages"
+summary: "The standard event header information applicable to event messages published to the Events Management Service"
 ---
 
 ## Event header information ##
