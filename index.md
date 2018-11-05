@@ -11,8 +11,8 @@ toc: false
 
 This National Population Failsafe Management (NPFM) Implementation Guide details the FHIR components required to fulfill the data item requirements of the following communications:
 
-- **National Failsafe Alert** - a notification of action to be taken by the receiving service to fulfill a national failsafe requirement 
-- **National Failsafe Alert Nullify Request** - a request from services to nullify failsafe alerts where appropriate.
+- [National Failsafe Alert](explore_national_failsafe_alert.html) - a notification of action to be taken by the receiving service to fulfill a national failsafe requirement 
+- [National Failsafe Alert Nullify Request](explore_national_failsafe_alert_nullify.html) - a request from services to nullify failsafe alerts where appropriate.
 
 These communications will be published or received by the [Events Management Service](https://developer.nhs.uk/library/interoperability/events-management-service) (EMS).
 

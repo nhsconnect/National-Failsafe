@@ -24,7 +24,7 @@ Following stakeholder feedback this implementation guidance has been updated as 
 	- Provider needed to action - new Mandatory item
 	- Action Required - changed to Mandatory
 	- Action required By Date - changed to Optional
-	- Readable Format - changed to Mandatory
+	- Readable Format - changed to Mandatory, representation of this item has been clarified
 
 - **National Failsafe Alert Nullify Request** - Nullification Reason corrected to refer to EMS-FailsafeAlertNullify-Task-1
 
